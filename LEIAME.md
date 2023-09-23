@@ -23,7 +23,7 @@ Por tratar-se de um primeiro trabalho e porque estou no inicio de meus estudos, 
 
 ### Construido com
 
-- HTML5
+![HTML5-ícone](https://github.com/DinaelDomingos/qr-code-component/assets/96603909/c92e3f2c-56b1-4151-ab70-b79c11d50b7e)
 - CSS3
 - Flexbox
 - Metodologia Mobile-first
