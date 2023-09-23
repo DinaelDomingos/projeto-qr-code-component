@@ -1,11 +1,10 @@
-# Frontend Mentor - solução para o desafio QR code componente
+# 1ª Desafio: QR code componet
 
-Esta é uma solução para o [desafio QR code component do site Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas. 
+Esta é a minha solução para o [desafio do *QR code component* do site Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam-me a melhorar minhas habilidades em HTML, CSS e JavaScript. 
 
 ## Índice
 
 - [Visão Geral](#visao-geral)
-  - [Captura de Tela](#captura-de-tela)
 - [Meu processo](#meu-processo)
   - [Construido com](#construido-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
@@ -14,20 +13,18 @@ Esta é uma solução para o [desafio QR code component do site Frontend Mentor]
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Visao Geral
 
-### Captura de Tela
-
-![](./screenshot.png)
+Este é meu primeiro trabalho desenvolvido a partir dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios do Frontend Mentor ajudam-me a melhorar minhas habilidades em HTML, CSS e JavaScript.   
 
 ## Meu processo
 
+Por tratar-se de um primeiro trabalho e porque estou no inicio de meus estudos, optei por um desafio de nível iniciante. Este desafio exige somente HTML e CSS e é perfeito para quem está começando a construir projetos responsivos. O projeto propoe a construção de 02 versões de página: uma **mobile**, com largura de 375px e uma **desktop**, com largura de 1440px. 
+
 ### Construido com
 
-- Marcação HTML5 semântica
-- Propriedades personalizadas do CSS3
+- HTML5
+- CSS3
 - Flexbox
 - Metodologia Mobile-first
 
@@ -52,4 +49,4 @@ Pretendo fazer outros desafio de maior complexidade afim de fixar todo o conheci
 
 ## Agradecimentos
 
-Agradeço ao Professor Gustavo Guanabara [@gustavoguanabara](https:/instagram.com/gustavoguanabara), fundador do site [Curso em Video](https://www.cursoemvideo.com). Tudo que sei, aprendi com ele.
+Agradeço ao Professor Gustavo Guanabara [@gustavoguanabara](https:/instagram.com/gustavoguanabara), fundador do site [Curso em Video](https://www.cursoemvideo.com). Foi através de seus cursos de HTML e CSS, na sua versão antiga e na atual, que entrei para o maravilhoso mundo do front-end.
