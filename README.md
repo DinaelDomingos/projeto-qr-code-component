@@ -27,7 +27,7 @@ Por tratar-se de um primeiro trabalho e porque estou no inicio de meus estudos, 
 
 ### Construido com
 
-<img loading="lazy" src="http://img.shields.io/static/v1?label=FERRAMENTAS&message=HTML520%CSS3&color=YELLOW&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=FERRAMENTAS&message=HTML5%20CSS3&color=YELLOW&style=for-the-badge"/>
 
 - HTML5
 - CSS3
