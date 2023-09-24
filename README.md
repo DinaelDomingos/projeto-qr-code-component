@@ -27,14 +27,8 @@ Por tratar-se de um primeiro trabalho e porque estou no inicio de meus estudos, 
 
 ### Construido com
 
-<img loading="lazy" src="http://img.shields.io/static/v1?label=FERRAMENTAS&message=HTML5%20-%20CSS3&color=YELLOW&style=for-the-badge"/>
 <img loading="lazy" src="https://img.shields.io/badge/FERRAMENTAS-HTMl5_e_CSS3-yellow">
 <img loading="lazy" src="https://img.shields.io/badge/WORKFLOW-Mobile_First-blue">
-
-- HTML5
-- CSS3
-- Flexbox
-- Metodologia Mobile-first
 
 ### O que eu aprendi
 
