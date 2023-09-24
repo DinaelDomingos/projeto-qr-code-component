@@ -1,5 +1,9 @@
 # Projeto: QR code componet
 
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
+
 Esta é a minha solução para o [desafio do *QR code component* do site Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam-me a melhorar minhas habilidades em HTML, CSS e JavaScript. 
 
 ## Índice
