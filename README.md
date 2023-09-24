@@ -1,4 +1,4 @@
-# 1ª Desafio: QR code componet
+# Projeto: QR code componet
 
 Esta é a minha solução para o [desafio do *QR code component* do site Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam-me a melhorar minhas habilidades em HTML, CSS e JavaScript. 
 
