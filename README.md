@@ -40,8 +40,8 @@ Pretendo fazer outros desafio de maior complexidade afim de fixar todo o conheci
 
 ### Recursos uteis
 
-- [Fonte 1](https://www.cursoemvideo.com) - Foi aqui que adquiri meus primeiros conhecimentos sobre Desenvolvimento Web.
-- [Fonte 2](https://www.alura.com.br) - Plataforma de cursos de tecnologia extraordinária. Bebo todos os dias desta fonte de conhecimento.
+- [Fonte 1: Plataforma Cursos em Videos](https://www.cursoemvideo.com) - Foi aqui que adquiri meus primeiros conhecimentos sobre Desenvolvimento Web.
+- [Fonte 2: Plataforma Alura](https://www.alura.com.br) - Plataforma de cursos de tecnologia extraordinária. Bebo todos os dias desta fonte de conhecimento.
 
 ## Autor
 
