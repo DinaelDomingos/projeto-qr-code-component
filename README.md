@@ -9,6 +9,7 @@ Esta é a minha solução para o [desafio do *QR code component* do site Fronten
 ## Índice
 
 - [Visão Geral](#visao-geral)
+- [Captura de tela](#captura-de-tela)
 - [Meu processo](#meu-processo)
   - [Construido com](#construido-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
@@ -20,6 +21,9 @@ Esta é a minha solução para o [desafio do *QR code component* do site Fronten
 ## Visao Geral
 
 Este é meu primeiro trabalho desenvolvido a partir dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios do Frontend Mentor ajudam-me a melhorar minhas habilidades em HTML, CSS e JavaScript.   
+
+### Captura de tela
+![](./screenshot.png)
 
 ## Meu processo
 
