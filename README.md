@@ -22,7 +22,7 @@ Esta é a minha solução para o [desafio do *QR code component* do site Fronten
 
 Este é meu primeiro trabalho desenvolvido a partir dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios do Frontend Mentor ajudam-me a melhorar minhas habilidades em HTML, CSS e JavaScript.   
 
-### Captura de tela
+## Captura de tela
 ![](./screenshot.png)
 
 ## Meu processo
