@@ -49,7 +49,7 @@ Pretendo fazer outros desafio de maior complexidade afim de fixar todo o conheci
 
 ## Autor
 
-- Website - Não o tenho, ainda! 
+- Website - Não tenho, ainda! 
 - Frontend Mentor - [@DinaelDomingos](https://www.frontendmentor.io/profile/DinaelDomigos)
 - Twitter - [@DinaelDomingos](https://www.twitter.com/DinaelDomingos)
 
