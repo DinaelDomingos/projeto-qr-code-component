@@ -9,6 +9,7 @@ Esta é a minha solução para o [desafio do *QR code component* do site Fronten
 ## Índice
 
 - [Visão Geral](#visao-geral)
+- [Captura de tela](#captura-de-tela)
 - [Meu processo](#meu-processo)
   - [Construido com](#construido-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
@@ -19,7 +20,7 @@ Esta é a minha solução para o [desafio do *QR code component* do site Fronten
 
 ## Visao Geral
 
-Este é meu primeiro trabalho desenvolvido a partir dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades em HTML, CSS e JavaScript.   
+Este é meu primeiro trabalho desenvolvido a partir dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios do Frontend Mentor ajudam-me a melhorar minhas habilidades em HTML, CSS e JavaScript.   
 
 ## Meu processo
 
@@ -40,11 +41,12 @@ Pretendo fazer outros desafio de maior complexidade afim de fixar todo o conheci
 
 ### Recursos uteis
 
-- [Fonte 1](https://www.cursoemvideo.com) - Foi aqui que adquiri meus primeiros conhecimentos sobre Desenvolvimento Web.
-- [Fonte 2](https://www.alura.com.br) - Plataforma de cursos de tecnologia extraordinária. Bebo todos os dias desta fonte de conhecimento.
+- [Fonte 1: Plataforma Cursos em Videos](https://www.cursoemvideo.com) - Foi aqui que adquiri meus primeiros conhecimentos sobre Desenvolvimento Web.
+- [Fonte 2: Plataforma Alura](https://www.alura.com.br) - Plataforma de cursos de tecnologia extraordinária. Bebo todos os dias desta fonte de conhecimento.
 
 ## Autor
 
+- Website - Não o tenho, ainda! 
 - Frontend Mentor - [@DinaelDomingos](https://www.frontendmentor.io/profile/DinaelDomigos)
 - Twitter - [@DinaelDomingos](https://www.twitter.com/DinaelDomingos)
 
