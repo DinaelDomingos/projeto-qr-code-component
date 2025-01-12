@@ -4,7 +4,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
-Esta é a minha solução para o [desafio do *QR code component* do site Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam-me a melhorar minhas habilidades em HTML, CSS e JavaScript. 
+Esta é a minha solução para o [desafio do *QR code component* do site Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades em HTML, CSS e JavaScript. 
 
 ## Índice
 
@@ -19,11 +19,11 @@ Esta é a minha solução para o [desafio do *QR code component* do site Fronten
 
 ## Visao Geral
 
-Este é meu primeiro trabalho desenvolvido a partir dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios do Frontend Mentor ajudam-me a melhorar minhas habilidades em HTML, CSS e JavaScript.   
+Este é meu primeiro trabalho desenvolvido a partir dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades em HTML, CSS e JavaScript.   
 
 ## Meu processo
 
-Por tratar-se de um primeiro trabalho e porque estou no inicio de meus estudos, optei por um desafio de nível iniciante. Este desafio exige somente HTML e CSS e é perfeito para quem está começando a construir projetos responsivos. O projeto propoe a construção de 02 versões de página: uma **mobile**, com largura de 375px e uma **desktop**, com largura de 1440px. 
+Por tratar-se de um primeiro trabalho e porque estar no inicio de meus estudos em Front-End, optei por um desafio de nível iniciante. Este desafio exige somente HTML e CSS e é perfeito para quem está começando a construir projetos responsivos. O projeto propoe a construção de 02 versões de página: uma **mobile**, com largura de 375px e uma **desktop**, com largura de 1440px. 
 
 ### Construido com
 
@@ -45,7 +45,6 @@ Pretendo fazer outros desafio de maior complexidade afim de fixar todo o conheci
 
 ## Autor
 
-- Website - Não o tenho, ainda! 
 - Frontend Mentor - [@DinaelDomingos](https://www.frontendmentor.io/profile/DinaelDomigos)
 - Twitter - [@DinaelDomingos](https://www.twitter.com/DinaelDomingos)
 
