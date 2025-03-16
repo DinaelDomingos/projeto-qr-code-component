@@ -4,7 +4,7 @@
   <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge" alt="Status do Projeto: Finalizado" />
 </p>
 
-Este repositório contém minha solução para o [desafio *QR Code Component*](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) do site **Frontend Mentor**. Os desafios da plataforma têm sido fundamentais para aprimorar minhas habilidades em **HTML**, **CSS** e **JavaScript**.
+Este repositório contém minha solução para o [desafio *QR Code Component*](https://www.frontendmentor.io/solutions/qr-code-component-8yM74GQPP8) do site **Frontend Mentor**. Os desafios da plataforma têm sido fundamentais para aprimorar minhas habilidades em **HTML**, **CSS** e **JavaScript**.
 
 ---
 
