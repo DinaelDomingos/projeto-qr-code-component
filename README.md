@@ -1,54 +1,89 @@
-# Projeto: QR code componet
+# # Projeto: QR Code Component
 
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge" alt="Status do Projeto: Finalizado" />
 </p>
 
-Esta é a minha solução para o [desafio do *QR code component* do site Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades em HTML, CSS e JavaScript. 
+Este repositório contém minha solução para o [desafio *QR Code Component*](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) do site **Frontend Mentor**. Os desafios da plataforma têm sido fundamentais para aprimorar minhas habilidades em **HTML**, **CSS** e **JavaScript**.
+
+---
 
 ## Índice
 
-- [Visão Geral](#visao-geral)
-- [Captura de tela](#captura-de-tela)
-- [Meu processo](#meu-processo)
-  - [Construido com](#construido-com)
-  - [O que eu aprendi](#o-que-eu-aprendi)
-  - [Desenvolvimento contínuo](#desenvolvimento-continuo)
-  - [Recursos úteis](#recursos-uteis)
+- [Visão Geral](#visão-geral)
+- [Captura de Tela](#captura-de-tela)
+- [Meu Processo](#meu-processo)
+  - [Construído Com](#construído-com)
+  - [O Que Eu Aprendi](#o-que-eu-aprendi)
+  - [Desenvolvimento Contínuo](#desenvolvimento-contínuo)
+  - [Recursos Úteis](#recursos-úteis)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-## Visao Geral
+---
 
-Este é meu primeiro trabalho desenvolvido a partir dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades em HTML, CSS e JavaScript.   
+## Visão Geral
 
-## Meu processo
+Este é o primeiro projeto que desenvolvi com base nos desafios do [Frontend Mentor](https://www.frontendmentor.io/home). A experiência foi incrível e me ajudou a consolidar conhecimentos básicos de **HTML** e **CSS**, além de me introduzir à construção de páginas responsivas.
 
-Por tratar-se de um primeiro trabalho e por estar no inicio de meus estudos em Front-End, optei por um desafio de nível iniciante. Este desafio exige somente HTML e CSS e é perfeito para quem está começando a construir projetos responsivos. O projeto propoe a construção de 02 versões de página: uma **mobile**, com largura de 375px e uma **desktop**, com largura de 1440px. 
+---
 
-### Construido com
+## Captura de Tela
 
-<img loading="lazy" src="https://img.shields.io/badge/FERRAMENTAS-HTMl5_e_CSS3-yellow">
-<img loading="lazy" src="https://img.shields.io/badge/WORKFLOW-Mobile_First-blue">
+Adicione aqui as capturas de tela das versões **mobile** e **desktop** do projeto.
 
-### O que eu aprendi
+---
 
-Esta é minha primeira página Web desenvolvida logo após fazer um curso online de HTML5 e CSS3 de 40 horas. Fazer isso sozinho me proporcionou um grande aprendizado e me ajudou a fixar parte do conhecimento adquirido no curso.
+## Meu Processo
 
-### Desenvolvimento continuo
+Por ser meu primeiro projeto e ainda estar no início dos meus estudos em Front-End, escolhi um desafio de **nível iniciante**. O objetivo era criar duas versões da página:
+1. **Versão Mobile** com largura de 375px;
+2. **Versão Desktop** com largura de 1440px.
 
-Pretendo fazer outros desafio de maior complexidade afim de fixar todo o conhecimento abordado durante o curso. Também planejo fazer um curso de JavaScript, linguagem fundamental para o desenvolvimento de páginas Web.
+Este desafio foi ideal para aprender e praticar a estruturação de páginas responsivas utilizando boas práticas de **HTML** e **CSS**.
 
-### Recursos uteis
+---
 
-- [Fonte 1: Plataforma Cursos em Videos](https://www.cursoemvideo.com) - Foi aqui que adquiri meus primeiros conhecimentos sobre Desenvolvimento Web.
-- [Fonte 2: Plataforma Alura](https://www.alura.com.br) - Plataforma de cursos de tecnologia extraordinária. Bebo todos os dias desta fonte de conhecimento.
+### Construído Com
+
+<img loading="lazy" src="https://img.shields.io/badge/FERRAMENTAS-HTMl5_e_CSS3-yellow" alt="Ferramentas: HTML e CSS">
+<img loading="lazy" src="https://img.shields.io/badge/WORKFLOW-Mobile_First-blue" alt="Workflow Mobile First">
+
+- **HTML5**
+- **CSS3**
+- **Metodologia Mobile First**
+
+---
+
+### O Que Eu Aprendi
+
+Este desafio foi um marco importante, pois é minha **primeira página web** desenvolvida após a conclusão de um curso online de **HTML5** e **CSS3** com 40 horas de duração. Criar o projeto sozinho foi uma excelente forma de aplicar o conhecimento adquirido e de consolidar a aprendizagem de forma prática.
+
+---
+
+### Desenvolvimento Contínuo
+
+Planejo avançar para desafios mais complexos, com o objetivo de solidificar os conceitos aprendidos e enfrentar novos desafios. Também estou planejando começar um curso de **JavaScript**, uma linguagem essencial para desenvolvimento web.
+
+---
+
+### Recursos Úteis
+
+Aqui estão algumas das fontes que foram fundamentais durante este projeto:
+
+- [Plataforma Cursos em Vídeo](https://www.cursoemvideo.com) - Minha introdução ao mundo do Desenvolvimento Web começou aqui.
+- [Plataforma Alura](https://www.alura.com.br) - Uma excelente fonte de conhecimento que utilizo diariamente.
+
+---
 
 ## Autor
 
-- Frontend Mentor - [@DinaelDomingos](https://www.frontendmentor.io/profile/DinaelDomigos)
+- Frontend Mentor - [@DinaelDomingos](https://www.frontendmentor.io/profile/DinaelDomingos)
 - Twitter - [@DinaelDomingos](https://www.twitter.com/DinaelDomingos)
+
+---
 
 ## Agradecimentos
 
-Agradeço ao Professor Gustavo Guanabara [@gustavoguanabara](https:/instagram.com/gustavoguanabara), fundador do site [Curso em Video](https://www.cursoemvideo.com). Foi através de seus cursos de HTML e CSS, na sua versão antiga e na atual, que entrei para o maravilhoso mundo do front-end.
+Meus agradecimentos especiais ao Professor **Gustavo Guanabara** [@gustavoguanabara](https:/instagram.com/gustavoguanabara), criador do site [Curso em Vídeo](https://www.cursoemvideo.com). Seus cursos de **HTML** e **CSS** foram a porta de entrada para o maravilhoso mundo do Front-End.
+
