@@ -30,7 +30,7 @@ Este é o primeiro projeto que desenvolvi com base nos desafios do [Frontend Men
 
 ## Captura de Tela
 
-Adicione aqui as capturas de tela das versões **mobile** e **desktop** do projeto.
+![Captura da Tela](ScreenShot - Projeto_QR code component.png)
 
 ---
 
